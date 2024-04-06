@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedsalahp
 - 👀 I’m interested in programming, video games, reading, video editing, Gym.
-- 🌱 I’m currently learning UI, BackEnd(Firebase).
+- 🌱 I’m currently larvel, BackEnd(Firebase).
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me blazeonsim107@gmail.com
 
